@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(183, 188, 188);
+}
+
+.divText {
+    padding: 14px;
+    font-style: italic;
+    h1 {
+        color: rgb(31, 135, 139);
+    }
+}
+
+.divNumber {
+    padding: 14px;
+    font-style: italic;
+}
